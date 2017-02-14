@@ -10,6 +10,16 @@ import UIKit
 
 class RegisterVC: UIViewController {
 
+    @IBOutlet weak var usernameTxt: UITextField!
+    @IBOutlet weak var passwordTxt: UITextField!
+    @IBOutlet weak var emailTxt: UITextField!
+    @IBOutlet weak var firstnameTxt: UITextField!
+    @IBOutlet weak var lastnameTxt: UITextField!
+    
+    
+    @IBOutlet weak var registerButton: UIButton!
+    @IBOutlet weak var alreadyAccountButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

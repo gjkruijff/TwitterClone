@@ -22,11 +22,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="mainbackground.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Yaf-dM-7Yg">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="whobackground.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Yaf-dM-7Yg">
                                 <rect key="frame" x="0.0" y="0.0" width="443" height="676"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tweetter" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DGv-FD-F6S">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Twe..ZAPP!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DGv-FD-F6S">
                                 <rect key="frame" x="56" y="70" width="264" height="47"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="33"/>
                                 <color key="textColor" red="0.90196079019999997" green="0.90196079019999997" blue="0.90196079019999997" alpha="1" colorSpace="calibratedRGB"/>
@@ -104,6 +104,15 @@
                             <constraint firstItem="qRf-jB-H8u" firstAttribute="top" secondItem="DGv-FD-F6S" secondAttribute="bottom" constant="23" id="qke-pl-Sy6"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="alreadyAccountButton" destination="Lay-Xq-m1t" id="tgH-o4-dIX"/>
+                        <outlet property="emailTxt" destination="ols-Wh-xiY" id="gtv-oa-NXS"/>
+                        <outlet property="firstnameTxt" destination="APd-Hh-8CE" id="dAF-Kw-FnV"/>
+                        <outlet property="lastnameTxt" destination="Wnw-aB-kMD" id="bJi-Dg-9EL"/>
+                        <outlet property="passwordTxt" destination="1SA-Wt-J6K" id="kPD-ji-q8d"/>
+                        <outlet property="registerButton" destination="M5V-Df-aeq" id="3Kr-mJ-qtp"/>
+                        <outlet property="usernameTxt" destination="RYA-cO-uQf" id="T3Y-pz-JWI"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -111,6 +120,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="mainbackground.jpg" width="1080" height="1920"/>
+        <image name="whobackground.jpg" width="375" height="667"/>
     </resources>
 </document>

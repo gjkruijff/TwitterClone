@@ -13,6 +13,7 @@
 		272FCC101E53A35D00E10F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC0F1E53A35D00E10F65 /* Assets.xcassets */; };
 		272FCC131E53A35D00E10F65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC111E53A35D00E10F65 /* LaunchScreen.storyboard */; };
 		272FCC1B1E53A55600E10F65 /* mainbackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC1A1E53A55600E10F65 /* mainbackground.jpg */; };
+		272FCC1D1E53AD4000E10F65 /* whobackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC1C1E53AD4000E10F65 /* whobackground.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		272FCC121E53A35D00E10F65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		272FCC141E53A35D00E10F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		272FCC1A1E53A55600E10F65 /* mainbackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mainbackground.jpg; sourceTree = "<group>"; };
+		272FCC1C1E53AD4000E10F65 /* whobackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whobackground.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				272FCC0F1E53A35D00E10F65 /* Assets.xcassets */,
 				272FCC111E53A35D00E10F65 /* LaunchScreen.storyboard */,
 				272FCC141E53A35D00E10F65 /* Info.plist */,
+				272FCC1C1E53AD4000E10F65 /* whobackground.jpg */,
 				272FCC1A1E53A55600E10F65 /* mainbackground.jpg */,
 			);
 			path = Tweetter;
@@ -130,6 +133,7 @@
 				272FCC101E53A35D00E10F65 /* Assets.xcassets in Resources */,
 				272FCC1B1E53A55600E10F65 /* mainbackground.jpg in Resources */,
 				272FCC0E1E53A35D00E10F65 /* Main.storyboard in Resources */,
+				272FCC1D1E53AD4000E10F65 /* whobackground.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
