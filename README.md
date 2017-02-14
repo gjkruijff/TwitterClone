@@ -1,2 +1,4 @@
 # TwitterClone
-Twitter clone in Swift, with PhP/MySQL back-end
+
+Twitter clone in Swift, with PhP/MySQL back-end.
+
