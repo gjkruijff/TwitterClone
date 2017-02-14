@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "66FA3CD59C56DC731EB8F0758AC9ED6761A5288B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "66FA3CD59C56DC731EB8F0758AC9ED6761A5288B" : 9223372036854775807,
+    "B6AD35192CB3828785A7E05B99F4E3A4F4B85E9D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C2EE16A-2196-4205-B311-25E577E69459",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "66FA3CD59C56DC731EB8F0758AC9ED6761A5288B" : "Twitter\/",
+    "B6AD35192CB3828785A7E05B99F4E3A4F4B85E9D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tweetter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tweetter\/Tweetter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gjkruijff\/TwitterClone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66FA3CD59C56DC731EB8F0758AC9ED6761A5288B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gjkruijff\/War-VIPER.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6AD35192CB3828785A7E05B99F4E3A4F4B85E9D"
+    }
+  ]
+}
