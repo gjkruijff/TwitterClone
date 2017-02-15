@@ -14,6 +14,7 @@
 		272FCC131E53A35D00E10F65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC111E53A35D00E10F65 /* LaunchScreen.storyboard */; };
 		272FCC1B1E53A55600E10F65 /* mainbackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC1A1E53A55600E10F65 /* mainbackground.jpg */; };
 		272FCC1D1E53AD4000E10F65 /* whobackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FCC1C1E53AD4000E10F65 /* whobackground.jpg */; };
+		272FCC1F1E543CC300E10F65 /* Presenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272FCC1E1E543CC300E10F65 /* Presenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		272FCC141E53A35D00E10F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		272FCC1A1E53A55600E10F65 /* mainbackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mainbackground.jpg; sourceTree = "<group>"; };
 		272FCC1C1E53AD4000E10F65 /* whobackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whobackground.jpg; sourceTree = "<group>"; };
+		272FCC1E1E543CC300E10F65 /* Presenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Presenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				272FCC081E53A35D00E10F65 /* AppDelegate.swift */,
 				272FCC0A1E53A35D00E10F65 /* RegisterVC.swift */,
 				272FCC0C1E53A35D00E10F65 /* Main.storyboard */,
+				272FCC1E1E543CC300E10F65 /* Presenter.swift */,
 				272FCC0F1E53A35D00E10F65 /* Assets.xcassets */,
 				272FCC111E53A35D00E10F65 /* LaunchScreen.storyboard */,
 				272FCC141E53A35D00E10F65 /* Info.plist */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				272FCC1F1E543CC300E10F65 /* Presenter.swift in Sources */,
 				272FCC0B1E53A35D00E10F65 /* RegisterVC.swift in Sources */,
 				272FCC091E53A35D00E10F65 /* AppDelegate.swift in Sources */,
 			);
