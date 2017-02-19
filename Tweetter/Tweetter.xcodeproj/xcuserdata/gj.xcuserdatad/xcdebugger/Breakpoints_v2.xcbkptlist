@@ -9,29 +9,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Tweetter/RegisterVC.swift"
-            timestampString = "509201551.290737"
+            filePath = "Tweetter/Interactor.swift"
+            timestampString = "509202238.475656"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
-            landmarkName = "register_click(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tweetter/RegisterVC.swift"
-            timestampString = "509201551.290737"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
-            landmarkName = "register_click(_:)"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "registerUser(username:password:email:firstname:lastname:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
